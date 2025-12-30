@@ -1,10 +1,8 @@
 
+class Main {
 
-class Main{
-    
-	   public static void main(String[] args) {
-        
-		System.out.println("Hello from yassen");
-	   }
-    
+	public static void main(String[] args) {
+
+		System.out.println("Hello Hallo World From nageh And yassin");
+	}    
 }
